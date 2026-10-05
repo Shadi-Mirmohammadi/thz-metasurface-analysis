@@ -9,8 +9,9 @@ Fe:Ga₂O₃, processing HFSS simulation exports into publication-ready figures.
 - Generates journal-grade figures (300 DPI PNG + vector PDF)
 
 ## Key result
-A complementary split-ring resonator (C-SRR) on Fe:Ga₂O₃ reaches ~77.5% reflection
-modulation depth at 300.4 GHz, saturating near σ ≈ 15 S/m (critical-coupling limit).
+A gold H-shaped split-ring resonator absorber on Fe:Ga₂O₃ (with ground plane) reaches 77.5%
+reflection-amplitude modulation at 300.4 GHz, which is 95.0% in reflected power and 82.2% in
+absorption. Absorption flattens near σ ≈ 15 S/m.
 
 ![Modulation depth](MD_vs_sigma.png)
 
